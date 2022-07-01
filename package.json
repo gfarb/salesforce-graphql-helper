@@ -1,0 +1,19 @@
+{
+  "name": "salesforce-graphql-helper",
+  "version": "0.0.1",
+  "description": "Salesforce GraphQL API client for browsers and Node with functionality to dynamically, quickly and easily create Salesforce GraphQL queries.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Goldfarb",
+  "license": "GNU GENERAL PUBLIC LICENSE V3",
+  "dependencies": {
+    "node-fetch": "^3.2.6",
+    "util": "^0.12.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0"
+  }
+}
